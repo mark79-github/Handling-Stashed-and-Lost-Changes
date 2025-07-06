@@ -1,0 +1,3 @@
+[submodule "Stashing-and-Selective-Restore"]
+	path = Stashing-and-Selective-Restore
+	url = git@github.com:mark79-github/Stashing-and-Selective-Restore.git
