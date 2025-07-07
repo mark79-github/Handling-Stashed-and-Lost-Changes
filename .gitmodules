@@ -4,3 +4,6 @@
 [submodule "Moving-Multiple-Commits-Between-Branches"]
 	path = Moving-Multiple-Commits-Between-Branches
 	url = https://github.com/mark79-github/Moving-Multiple-Commits-Between-Branches.git
+[submodule "Stashing-and-Resolving-Conflicts-After-Merge"]
+	path = Stashing-and-Resolving-Conflicts-After-Merge
+	url = https://github.com/mark79-github/Stashing-and-Resolving-Conflicts-After-Merge.git
