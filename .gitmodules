@@ -7,3 +7,6 @@
 [submodule "Stashing-and-Resolving-Conflicts-After-Merge"]
 	path = Stashing-and-Resolving-Conflicts-After-Merge
 	url = https://github.com/mark79-github/Stashing-and-Resolving-Conflicts-After-Merge.git
+[submodule "Recovering-Uncommitted-Changes"]
+	path = Recovering-Uncommitted-Changes
+	url = https://github.com/mark79-github/Recovering-Uncommitted-Changes.git
